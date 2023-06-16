@@ -1,6 +1,6 @@
 # Isaac Lal | Strong Password Generator
 
-## Features
+### Features
 
 #### - Aesthetically pleasing color gradient
 #### - Light mode and dark mode based on system preferences
