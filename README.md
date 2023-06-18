@@ -1,4 +1,4 @@
-# Isaac Lal | Strong Password Generator
+# Isaac Lal | Password Generator
 
 ### Features
 
