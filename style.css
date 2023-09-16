@@ -4,7 +4,7 @@
 }
 
 body {
-  background: black;
+  background: linear-gradient(to left top, #000428, #004e92);
   margin: 0;
   color: #fff;
   display: flex;
