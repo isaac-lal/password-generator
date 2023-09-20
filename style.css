@@ -87,6 +87,12 @@ input[type='checkbox'] {
   margin: 15px 0;
 }
 
+footer {
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 10px;
+}
+
 @media (prefers-color-scheme: light) {
   body {
     background: #ecf0f3;
